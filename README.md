@@ -1,7 +1,7 @@
 # Duke University Physics 136 Final Project
 
 ## Instrument Classification Using Fourier Transforms of Sustained Sounds
-Gabriel Chen
+Gabriel Chen </br>
 1: Introduction
 Many different musical instruments exist, and each has it’s own unique sound qualities that make it identifiable to the human ear. The act of classifying the sound of an instrument is merely to identify which instrument a sound originated from. The act of classification ends up being difficult to do reliably and quickly as a human being, as humans are limited in their ability to process sound information.
 
